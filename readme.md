@@ -1,7 +1,7 @@
 # 🚀 Consignes
 
 Premiers exercices de Javascript 
-> Math, Conditions, Manipulation du DOM
+> Les fonctions
 
 ## 📦 Technologies utilisées
 
@@ -10,4 +10,4 @@ Premiers exercices de Javascript
 
 ## 🖼️ Aperçu visuel (optionnel)
 
-[Live Demo](https://ocrzia.github.io/JS4-Random-number/)
+[Live Demo](https://ocrzia.github.io/JS10-Conversion-temp-fct/)
